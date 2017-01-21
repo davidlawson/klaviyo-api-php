@@ -10,7 +10,7 @@
         }
     ],
     "require": {
-        "guzzlehttp/guzzle": "6.2.0",
+        "guzzlehttp/guzzle": "^6.2.0",
         "pimple/pimple": "^3.0"
     },
     "require-dev": {
