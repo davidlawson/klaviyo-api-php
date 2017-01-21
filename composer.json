@@ -1,5 +1,5 @@
 {
-    "name": "gollygood/klaviyo-api-php",
+    "name": "davidlawson/klaviyo-api-php",
     "description": "Klaviyo email marketing service API wrapper.",
     "type": "library",
     "license": "MIT",
