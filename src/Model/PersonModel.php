@@ -27,6 +27,7 @@ class PersonModel extends BaseModel {
   protected $unsetAttributes;
   protected static $optionalDefaults = [
     'id' => '',
+    '$first_name' => '',
     '$last_name' => '',
     '$organization' => '',
     '$title' => '',
